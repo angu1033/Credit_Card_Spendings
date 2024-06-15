@@ -1,0 +1,700 @@
+City,Card Type,Exp Type,Gender,Amount
+"Greater Mumbai, India",Gold,Entertainment,M,986379
+"Delhi, India",Signature,Entertainment,M,809623
+"Greater Mumbai, India",Platinum,Entertainment,M,735566
+"Ahmedabad, India",Gold,Entertainment,M,668568
+"Greater Mumbai, India",Platinum,Entertainment,M,647116
+"Delhi, India",Silver,Entertainment,M,622170
+"Greater Mumbai, India",Silver,Entertainment,M,467014
+"Bengaluru, India",Platinum,Entertainment,M,434427
+"Greater Mumbai, India",Signature,Entertainment,M,421878
+"Delhi, India",Signature,Entertainment,M,366102
+"Ahmedabad, India",Gold,Entertainment,M,339112
+"Greater Mumbai, India",Signature,Entertainment,F,302834
+"Delhi, India",Platinum,Bills,F,280061
+"Greater Mumbai, India",Signature,Bills,F,278036
+"Delhi, India",Signature,Entertainment,F,254359
+"Greater Mumbai, India",Platinum,Entertainment,M,213047
+"Delhi, India",Silver,Bills,F,192247
+"Bengaluru, India",Gold,Bills,F,171574
+"Greater Mumbai, India",Platinum,Bills,F,150980
+"Delhi, India",Gold,Bills,F,143250
+"Greater Mumbai, India",Signature,Bills,F,123424
+"Bengaluru, India",Silver,Bills,F,101738
+"Delhi, India",Silver,Bills,F,100036
+"Delhi, India",Gold,Bills,F,82475
+"Delhi, India",Platinum,Bills,F,67932
+"Greater Mumbai, India",Platinum,Bills,F,32555
+"Greater Mumbai, India",Gold,Bills,F,19226
+"Greater Mumbai, India",Signature,Entertainment,M,655846
+"Bengaluru, India",Platinum,Entertainment,M,987935
+"Delhi, India",Gold,Entertainment,M,702774
+"Bengaluru, India",Signature,Entertainment,M,225392
+"Greater Mumbai, India",Gold,Entertainment,M,296573
+"Ahmedabad, India",Platinum,Entertainment,M,227702
+"Ahmedabad, India",Gold,Bills,M,864090
+"Ahmedabad, India",Signature,Bills,M,440605
+"Ahmedabad, India",Platinum,Bills,M,954660
+"Ahmedabad, India",Signature,Bills,M,255577
+"Ahmedabad, India",Silver,Bills,M,337352
+"Ahmedabad, India",Platinum,Bills,M,660244
+"Delhi, India",Silver,Bills,M,401351
+"Delhi, India",Platinum,Bills,F,678842
+"Delhi, India",Gold,Bills,F,478861
+"Bengaluru, India",Platinum,Bills,F,804938
+"Delhi, India",Silver,Bills,F,888341
+"Bengaluru, India",Platinum,Bills,F,262414
+"Bengaluru, India",Gold,Bills,F,249353
+"Ahmedabad, India",Gold,Bills,F,892016
+"Ahmedabad, India",Platinum,Bills,F,313626
+"Greater Mumbai, India",Gold,Bills,F,314366
+"Greater Mumbai, India",Signature,Bills,F,551340
+"Delhi, India",Signature,Bills,F,735037
+"Greater Mumbai, India",Platinum,Bills,F,574023
+"Ahmedabad, India",Signature,Bills,F,402300
+"Delhi, India",Signature,Bills,F,733125
+"Greater Mumbai, India",Signature,Bills,F,545977
+"Bengaluru, India",Silver,Bills,F,371572
+"Ahmedabad, India",Signature,Bills,F,326283
+"Delhi, India",Platinum,Bills,F,279051
+"Delhi, India",Platinum,Bills,F,900101
+"Ahmedabad, India",Silver,Bills,F,545286
+"Delhi, India",Platinum,Bills,F,722587
+"Bengaluru, India",Platinum,Bills,F,411062
+"Delhi, India",Platinum,Grocery,F,660910
+"Greater Mumbai, India",Signature,Grocery,F,557370
+"Greater Mumbai, India",Platinum,Grocery,F,549794
+"Delhi, India",Platinum,Grocery,F,340133
+"Bengaluru, India",Gold,Grocery,F,265417
+"Greater Mumbai, India",Platinum,Grocery,F,358185
+"Greater Mumbai, India",Gold,Grocery,F,991685
+"Greater Mumbai, India",Gold,Grocery,F,533762
+"Greater Mumbai, India",Gold,Grocery,F,829742
+"Delhi, India",Silver,Grocery,F,441527
+"Delhi, India",Signature,Grocery,F,550782
+"Greater Mumbai, India",Platinum,Grocery,F,835872
+"Ahmedabad, India",Silver,Grocery,F,540497
+"Greater Mumbai, India",Platinum,Grocery,F,525977
+"Greater Mumbai, India",Gold,Grocery,F,789393
+"Greater Mumbai, India",Platinum,Grocery,F,689478
+"Bengaluru, India",Silver,Grocery,F,499079
+"Ahmedabad, India",Platinum,Grocery,F,665107
+"Greater Mumbai, India",Platinum,Grocery,F,998077
+"Ahmedabad, India",Silver,Grocery,F,934205
+"Bengaluru, India",Platinum,Grocery,F,823426
+"Ahmedabad, India",Signature,Grocery,F,282910
+"Bengaluru, India",Gold,Grocery,F,418675
+"Ahmedabad, India",Silver,Grocery,F,804949
+"Bengaluru, India",Gold,Grocery,F,686601
+"Greater Mumbai, India",Silver,Grocery,F,561220
+"Greater Mumbai, India",Gold,Grocery,F,762534
+"Bengaluru, India",Gold,Grocery,F,327947
+"Bengaluru, India",Gold,Grocery,F,492986
+"Delhi, India",Signature,Grocery,F,369237
+"Bengaluru, India",Platinum,Bills,F,983839
+"Ahmedabad, India",Gold,Bills,F,776716
+"Greater Mumbai, India",Gold,Bills,F,664632
+"Bengaluru, India",Gold,Bills,F,466727
+"Bengaluru, India",Gold,Bills,F,896384
+"Delhi, India",Signature,Bills,F,712001
+"Greater Mumbai, India",Silver,Bills,F,246865
+"Greater Mumbai, India",Signature,Bills,F,858729
+"Delhi, India",Platinum,Bills,F,581882
+"Greater Mumbai, India",Signature,Bills,F,646426
+"Bengaluru, India",Silver,Bills,F,687088
+"Bengaluru, India",Signature,Bills,F,973026
+"Greater Mumbai, India",Silver,Bills,F,944398
+"Ahmedabad, India",Platinum,Bills,F,414422
+"Bengaluru, India",Signature,Bills,F,408503
+"Bengaluru, India",Signature,Bills,F,984466
+"Greater Mumbai, India",Gold,Bills,F,919997
+"Greater Mumbai, India",Signature,Bills,F,535101
+"Greater Mumbai, India",Signature,Bills,F,978301
+"Greater Mumbai, India",Gold,Bills,F,880406
+"Ahmedabad, India",Silver,Fuel,F,447241
+"Bengaluru, India",Platinum,Fuel,F,382191
+"Bengaluru, India",Silver,Fuel,F,775859
+"Bengaluru, India",Platinum,Fuel,F,832637
+"Bengaluru, India",Platinum,Fuel,F,458526
+"Ahmedabad, India",Signature,Fuel,F,440995
+"Ahmedabad, India",Platinum,Fuel,F,490128
+"Delhi, India",Platinum,Fuel,F,897079
+"Delhi, India",Gold,Fuel,F,431948
+"Bengaluru, India",Silver,Fuel,F,228072
+"Delhi, India",Gold,Fuel,F,757649
+"Delhi, India",Signature,Fuel,F,919877
+"Greater Mumbai, India",Gold,Fuel,M,605615
+"Bengaluru, India",Platinum,Fuel,M,500852
+"Greater Mumbai, India",Signature,Fuel,M,488136
+"Delhi, India",Gold,Fuel,M,937828
+"Delhi, India",Gold,Fuel,M,315873
+"Greater Mumbai, India",Silver,Fuel,M,567623
+"Greater Mumbai, India",Platinum,Fuel,M,555123
+"Bengaluru, India",Gold,Fuel,M,498843
+"Greater Mumbai, India",Silver,Fuel,M,752610
+"Greater Mumbai, India",Platinum,Fuel,M,494540
+"Delhi, India",Gold,Fuel,M,996754
+"Ahmedabad, India",Signature,Fuel,M,245572
+"Delhi, India",Gold,Fuel,M,974384
+"Ahmedabad, India",Silver,Fuel,M,846635
+"Ahmedabad, India",Silver,Fuel,M,635473
+"Delhi, India",Gold,Fuel,M,224510
+"Delhi, India",Silver,Fuel,M,478671
+"Greater Mumbai, India",Gold,Fuel,M,990700
+"Delhi, India",Gold,Fuel,M,228565
+"Bengaluru, India",Silver,Fuel,M,297732
+"Greater Mumbai, India",Signature,Bills,M,559262
+"Bengaluru, India",Signature,Bills,M,809907
+"Ahmedabad, India",Signature,Bills,M,428316
+"Ahmedabad, India",Signature,Bills,F,275065
+"Bengaluru, India",Silver,Bills,F,845653
+"Ahmedabad, India",Signature,Bills,F,236296
+"Bengaluru, India",Signature,Bills,F,440572
+"Ahmedabad, India",Gold,Bills,F,478115
+"Bengaluru, India",Gold,Bills,F,897621
+"Greater Mumbai, India",Signature,Bills,F,554281
+"Delhi, India",Silver,Bills,F,245452
+"Delhi, India",Platinum,Bills,F,365045
+"Greater Mumbai, India",Gold,Bills,F,496047
+"Bengaluru, India",Silver,Bills,F,466814
+"Bengaluru, India",Gold,Bills,F,835177
+"Delhi, India",Silver,Bills,F,219698
+"Bengaluru, India",Silver,Bills,F,784541
+"Delhi, India",Signature,Bills,F,576994
+"Bengaluru, India",Gold,Bills,F,464663
+"Bengaluru, India",Platinum,Bills,F,380270
+"Ahmedabad, India",Silver,Bills,F,772082
+"Delhi, India",Gold,Bills,F,230853
+"Bengaluru, India",Signature,Bills,F,677654
+"Greater Mumbai, India",Signature,Bills,F,929247
+"Ahmedabad, India",Platinum,Bills,F,851374
+"Ahmedabad, India",Platinum,Bills,F,637600
+"Greater Mumbai, India",Platinum,Bills,F,681749
+"Delhi, India",Silver,Bills,F,847958
+"Greater Mumbai, India",Gold,Bills,F,877569
+"Ahmedabad, India",Platinum,Bills,F,450413
+"Bengaluru, India",Signature,Bills,F,219041
+"Bengaluru, India",Gold,Bills,F,866572
+"Greater Mumbai, India",Signature,Bills,F,570791
+"Ahmedabad, India",Silver,Bills,F,705464
+"Greater Mumbai, India",Signature,Bills,F,806821
+"Greater Mumbai, India",Platinum,Bills,F,515472
+"Ahmedabad, India",Silver,Bills,F,352207
+"Ahmedabad, India",Gold,Bills,F,342761
+"Bengaluru, India",Signature,Bills,F,249099
+"Ahmedabad, India",Platinum,Bills,F,995634
+"Bengaluru, India",Signature,Bills,F,435097
+"Ahmedabad, India",Platinum,Bills,F,797815
+"Delhi, India",Gold,Bills,F,326922
+"Bengaluru, India",Gold,Bills,F,396241
+"Delhi, India",Gold,Bills,F,486949
+"Greater Mumbai, India",Gold,Bills,F,333483
+"Ahmedabad, India",Platinum,Bills,F,612572
+"Bengaluru, India",Silver,Bills,F,327244
+"Ahmedabad, India",Silver,Bills,F,955468
+"Greater Mumbai, India",Gold,Bills,F,927864
+"Delhi, India",Signature,Bills,F,555220
+"Delhi, India",Silver,Bills,F,952640
+"Ahmedabad, India",Silver,Bills,F,695749
+"Greater Mumbai, India",Platinum,Bills,F,365724
+"Greater Mumbai, India",Platinum,Bills,F,738108
+"Ahmedabad, India",Platinum,Bills,F,650785
+"Delhi, India",Signature,Bills,F,611486
+"Bengaluru, India",Platinum,Bills,F,965721
+"Ahmedabad, India",Gold,Bills,F,413052
+"Ahmedabad, India",Silver,Bills,F,584822
+"Ahmedabad, India",Gold,Bills,F,980146
+"Ahmedabad, India",Signature,Bills,F,926072
+"Delhi, India",Silver,Bills,F,482394
+"Bengaluru, India",Signature,Bills,F,718346
+"Bengaluru, India",Silver,Bills,F,491598
+"Delhi, India",Platinum,Bills,F,848852
+"Bengaluru, India",Gold,Bills,F,396139
+"Ahmedabad, India",Signature,Bills,F,856974
+"Ahmedabad, India",Signature,Bills,F,855990
+"Delhi, India",Signature,Bills,F,924776
+"Greater Mumbai, India",Signature,Bills,F,204850
+"Delhi, India",Platinum,Bills,F,780669
+"Greater Mumbai, India",Signature,Bills,F,887442
+"Delhi, India",Signature,Bills,F,297820
+"Delhi, India",Signature,Bills,F,687879
+"Greater Mumbai, India",Silver,Bills,F,738456
+"Delhi, India",Platinum,Bills,F,378535
+"Greater Mumbai, India",Silver,Bills,F,334116
+"Delhi, India",Silver,Bills,F,772360
+"Ahmedabad, India",Gold,Bills,F,580796
+"Greater Mumbai, India",Silver,Bills,F,855465
+"Greater Mumbai, India",Gold,Bills,F,978989
+"Ahmedabad, India",Gold,Bills,F,451874
+"Ahmedabad, India",Silver,Bills,F,670750
+"Bengaluru, India",Signature,Bills,F,977951
+"Delhi, India",Platinum,Bills,F,403466
+"Delhi, India",Signature,Bills,F,861177
+"Ahmedabad, India",Gold,Bills,F,528612
+"Ahmedabad, India",Signature,Bills,F,339670
+"Delhi, India",Signature,Bills,F,963751
+"Ahmedabad, India",Gold,Bills,F,761930
+"Ahmedabad, India",Signature,Bills,F,852806
+"Delhi, India",Signature,Bills,F,207755
+"Greater Mumbai, India",Gold,Bills,F,489540
+"Ahmedabad, India",Silver,Bills,M,274395
+"Bengaluru, India",Platinum,Bills,M,566945
+"Ahmedabad, India",Gold,Bills,M,705690
+"Bengaluru, India",Gold,Bills,M,894888
+"Greater Mumbai, India",Platinum,Bills,M,811899
+"Greater Mumbai, India",Silver,Bills,M,677645
+"Greater Mumbai, India",Platinum,Bills,M,326162
+"Delhi, India",Platinum,Bills,M,316946
+"Delhi, India",Platinum,Bills,M,622373
+"Bengaluru, India",Signature,Bills,M,640653
+"Ahmedabad, India",Signature,Bills,M,745493
+"Delhi, India",Gold,Bills,M,868021
+"Delhi, India",Platinum,Bills,M,284923
+"Bengaluru, India",Platinum,Bills,M,814422
+"Bengaluru, India",Gold,Bills,M,599741
+"Ahmedabad, India",Platinum,Bills,M,804560
+"Ahmedabad, India",Gold,Bills,M,996291
+"Ahmedabad, India",Platinum,Bills,M,477553
+"Delhi, India",Gold,Bills,M,216028
+"Greater Mumbai, India",Signature,Bills,M,275427
+"Delhi, India",Silver,Bills,M,722048
+"Delhi, India",Silver,Bills,M,292365
+"Ahmedabad, India",Silver,Bills,M,400393
+"Greater Mumbai, India",Platinum,Bills,M,219720
+"Delhi, India",Signature,Bills,M,981404
+"Bengaluru, India",Signature,Bills,M,639670
+"Bengaluru, India",Gold,Bills,M,814333
+"Ahmedabad, India",Gold,Bills,M,569582
+"Ahmedabad, India",Gold,Bills,M,954111
+"Ahmedabad, India",Gold,Bills,M,635267
+"Delhi, India",Gold,Bills,M,393651
+"Ahmedabad, India",Platinum,Bills,M,572306
+"Ahmedabad, India",Silver,Bills,M,407647
+"Greater Mumbai, India",Gold,Bills,M,734396
+"Delhi, India",Platinum,Bills,M,224414
+"Ahmedabad, India",Signature,Bills,M,203194
+"Greater Mumbai, India",Gold,Bills,F,250410
+"Delhi, India",Silver,Bills,F,830697
+"Greater Mumbai, India",Platinum,Bills,F,790800
+"Greater Mumbai, India",Silver,Bills,F,638570
+"Greater Mumbai, India",Silver,Bills,F,380409
+"Greater Mumbai, India",Gold,Bills,F,601631
+"Ahmedabad, India",Gold,Bills,F,690534
+"Ahmedabad, India",Silver,Bills,F,423661
+"Greater Mumbai, India",Silver,Bills,F,936294
+"Bengaluru, India",Platinum,Bills,F,537050
+"Delhi, India",Silver,Bills,F,899343
+"Greater Mumbai, India",Platinum,Bills,F,834691
+"Ahmedabad, India",Silver,Bills,F,240216
+"Greater Mumbai, India",Signature,Bills,F,424370
+"Delhi, India",Silver,Bills,F,593991
+"Greater Mumbai, India",Signature,Bills,F,768467
+"Delhi, India",Gold,Bills,F,781959
+"Bengaluru, India",Platinum,Bills,F,553907
+"Bengaluru, India",Platinum,Bills,F,308622
+"Greater Mumbai, India",Signature,Bills,F,912334
+"Delhi, India",Silver,Bills,F,586474
+"Delhi, India",Gold,Bills,F,521237
+"Delhi, India",Signature,Bills,F,446266
+"Greater Mumbai, India",Platinum,Bills,F,511168
+"Bengaluru, India",Signature,Bills,F,608438
+"Delhi, India",Gold,Bills,F,973519
+"Delhi, India",Platinum,Bills,F,688577
+"Bengaluru, India",Silver,Bills,F,686619
+"Greater Mumbai, India",Signature,Bills,F,255982
+"Greater Mumbai, India",Signature,Bills,M,464656
+"Delhi, India",Signature,Bills,M,212319
+"Greater Mumbai, India",Platinum,Bills,M,307563
+"Delhi, India",Silver,Bills,M,407564
+"Bengaluru, India",Signature,Bills,M,331349
+"Delhi, India",Silver,Bills,M,391325
+"Ahmedabad, India",Silver,Bills,M,530244
+"Greater Mumbai, India",Signature,Bills,M,668736
+"Bengaluru, India",Gold,Bills,M,517448
+"Ahmedabad, India",Platinum,Bills,M,788531
+"Ahmedabad, India",Gold,Bills,M,474729
+"Bengaluru, India",Platinum,Bills,M,590841
+"Greater Mumbai, India",Platinum,Bills,M,608427
+"Delhi, India",Silver,Bills,M,719835
+"Delhi, India",Signature,Bills,M,375139
+"Bengaluru, India",Platinum,Bills,M,229589
+"Bengaluru, India",Signature,Bills,M,376453
+"Delhi, India",Signature,Bills,M,360009
+"Ahmedabad, India",Signature,Bills,M,770346
+"Greater Mumbai, India",Signature,Bills,M,489043
+"Bengaluru, India",Platinum,Bills,M,503037
+"Greater Mumbai, India",Platinum,Bills,M,731261
+"Ahmedabad, India",Signature,Bills,M,262755
+"Greater Mumbai, India",Gold,Bills,M,825475
+"Greater Mumbai, India",Platinum,Bills,M,922630
+"Delhi, India",Gold,Bills,M,752172
+"Ahmedabad, India",Gold,Bills,M,418009
+"Delhi, India",Signature,Bills,M,994537
+"Greater Mumbai, India",Silver,Bills,M,922206
+"Greater Mumbai, India",Signature,Bills,M,389097
+"Bengaluru, India",Signature,Bills,M,880778
+"Greater Mumbai, India",Gold,Bills,F,327971
+"Bengaluru, India",Signature,Bills,F,689201
+"Bengaluru, India",Silver,Bills,F,792440
+"Bengaluru, India",Signature,Bills,F,602222
+"Ahmedabad, India",Platinum,Bills,F,502399
+"Ahmedabad, India",Silver,Bills,F,272804
+"Bengaluru, India",Platinum,Bills,F,613280
+"Delhi, India",Signature,Bills,F,876491
+"Bengaluru, India",Silver,Bills,F,820217
+"Greater Mumbai, India",Signature,Bills,F,994184
+"Ahmedabad, India",Platinum,Bills,F,515263
+"Ahmedabad, India",Signature,Bills,F,338527
+"Ahmedabad, India",Silver,Bills,F,934683
+"Ahmedabad, India",Signature,Bills,F,454570
+"Greater Mumbai, India",Gold,Bills,F,654519
+"Ahmedabad, India",Gold,Bills,F,958047
+"Bengaluru, India",Silver,Bills,F,465281
+"Ahmedabad, India",Signature,Bills,F,653161
+"Ahmedabad, India",Gold,Bills,F,307350
+"Greater Mumbai, India",Silver,Bills,F,41002
+"Bengaluru, India",Silver,Bills,F,34743
+"Bengaluru, India",Signature,Bills,F,195589
+"Bengaluru, India",Signature,Bills,F,204735
+"Ahmedabad, India",Signature,Bills,F,118112
+"Greater Mumbai, India",Platinum,Bills,F,61572
+"Delhi, India",Gold,Bills,F,274938
+"Greater Mumbai, India",Signature,Bills,F,43854
+"Delhi, India",Gold,Bills,F,8798
+"Greater Mumbai, India",Gold,Bills,F,192241
+"Bengaluru, India",Silver,Bills,F,128164
+"Delhi, India",Signature,Bills,F,249061
+"Greater Mumbai, India",Gold,Bills,F,275283
+"Greater Mumbai, India",Platinum,Bills,F,172194
+"Ahmedabad, India",Gold,Bills,F,13162
+"Bengaluru, India",Platinum,Bills,F,3427
+"Bengaluru, India",Gold,Bills,M,171374
+"Delhi, India",Signature,Bills,M,286251
+"Ahmedabad, India",Platinum,Bills,M,123417
+"Delhi, India",Silver,Bills,M,81088
+"Ahmedabad, India",Signature,Bills,M,64113
+"Bengaluru, India",Platinum,Bills,M,54374
+"Ahmedabad, India",Signature,Bills,M,175515
+"Delhi, India",Gold,Bills,M,78773
+"Bengaluru, India",Signature,Bills,M,143515
+"Delhi, India",Silver,Bills,M,263613
+"Greater Mumbai, India",Platinum,Bills,M,265434
+"Delhi, India",Signature,Bills,M,87839
+"Delhi, India",Signature,Bills,M,60905
+"Delhi, India",Platinum,Bills,M,199726
+"Delhi, India",Silver,Bills,M,267896
+"Ahmedabad, India",Gold,Bills,M,198937
+"Greater Mumbai, India",Gold,Bills,M,90745
+"Greater Mumbai, India",Silver,Bills,M,86676
+"Greater Mumbai, India",Platinum,Bills,M,163574
+"Greater Mumbai, India",Signature,Bills,M,2138
+"Bengaluru, India",Silver,Bills,M,253749
+"Delhi, India",Platinum,Bills,M,60187
+"Bengaluru, India",Platinum,Bills,M,15566
+"Greater Mumbai, India",Signature,Bills,F,242144
+"Delhi, India",Platinum,Bills,F,114049
+"Bengaluru, India",Gold,Bills,F,100992
+"Delhi, India",Silver,Bills,F,173017
+"Greater Mumbai, India",Gold,Bills,F,279567
+"Delhi, India",Signature,Bills,F,25016
+"Delhi, India",Silver,Bills,F,157982
+"Bengaluru, India",Signature,Bills,F,240387
+"Delhi, India",Platinum,Bills,F,134030
+"Bengaluru, India",Gold,Bills,F,108651
+"Delhi, India",Gold,Bills,F,138617
+"Bengaluru, India",Signature,Bills,F,98963
+"Delhi, India",Silver,Bills,F,25486
+"Delhi, India",Gold,Bills,F,231140
+"Ahmedabad, India",Gold,Bills,F,20032
+"Greater Mumbai, India",Gold,Bills,F,293938
+"Delhi, India",Silver,Bills,F,88175
+"Ahmedabad, India",Platinum,Bills,F,105297
+"Delhi, India",Platinum,Bills,F,129169
+"Greater Mumbai, India",Signature,Bills,F,172386
+"Greater Mumbai, India",Platinum,Bills,F,46369
+"Greater Mumbai, India",Silver,Bills,F,158636
+"Delhi, India",Signature,Bills,M,87219
+"Delhi, India",Gold,Bills,M,183445
+"Bengaluru, India",Silver,Bills,M,147977
+"Ahmedabad, India",Platinum,Bills,M,243279
+"Bengaluru, India",Platinum,Bills,M,243950
+"Delhi, India",Silver,Bills,M,32548
+"Delhi, India",Platinum,Bills,M,118126
+"Greater Mumbai, India",Platinum,Bills,M,13325
+"Greater Mumbai, India",Gold,Bills,M,295055
+"Greater Mumbai, India",Platinum,Bills,M,64764
+"Bengaluru, India",Platinum,Bills,M,174520
+"Delhi, India",Signature,Bills,M,72763
+"Greater Mumbai, India",Signature,Bills,M,269809
+"Delhi, India",Silver,Bills,M,81145
+"Ahmedabad, India",Silver,Bills,M,25948
+"Greater Mumbai, India",Silver,Bills,M,120188
+"Greater Mumbai, India",Signature,Bills,M,8259
+"Delhi, India",Signature,Bills,M,285830
+"Bengaluru, India",Gold,Bills,M,67039
+"Ahmedabad, India",Gold,Bills,F,14370
+"Ahmedabad, India",Platinum,Bills,F,54304
+"Greater Mumbai, India",Gold,Bills,F,188856
+"Ahmedabad, India",Gold,Bills,F,44635
+"Greater Mumbai, India",Platinum,Bills,F,227273
+"Delhi, India",Gold,Bills,F,234200
+"Delhi, India",Signature,Bills,F,79053
+"Greater Mumbai, India",Silver,Bills,F,49711
+"Greater Mumbai, India",Signature,Bills,F,203463
+"Bengaluru, India",Signature,Bills,F,196985
+"Greater Mumbai, India",Gold,Bills,F,246457
+"Delhi, India",Platinum,Bills,F,88344
+"Bengaluru, India",Signature,Bills,F,167457
+"Bengaluru, India",Gold,Bills,F,254598
+"Delhi, India",Platinum,Bills,F,102486
+"Greater Mumbai, India",Silver,Bills,F,159428
+"Bengaluru, India",Platinum,Bills,F,296987
+"Ahmedabad, India",Signature,Bills,F,89418
+"Delhi, India",Signature,Bills,F,77247
+"Bengaluru, India",Gold,Bills,F,66542
+"Greater Mumbai, India",Silver,Bills,F,194526
+"Bengaluru, India",Signature,Bills,F,178119
+"Bengaluru, India",Gold,Bills,F,258653
+"Delhi, India",Silver,Bills,F,97425
+"Delhi, India",Gold,Bills,F,223185
+"Greater Mumbai, India",Gold,Bills,F,224750
+"Ahmedabad, India",Signature,Bills,F,103363
+"Greater Mumbai, India",Platinum,Bills,F,49090
+"Bengaluru, India",Platinum,Bills,F,140584
+"Delhi, India",Platinum,Bills,F,61272
+"Delhi, India",Silver,Bills,F,25200
+"Greater Mumbai, India",Signature,Bills,F,249893
+"Bengaluru, India",Gold,Bills,F,91325
+"Greater Mumbai, India",Silver,Bills,F,81641
+"Greater Mumbai, India",Platinum,Bills,F,267700
+"Greater Mumbai, India",Silver,Food,F,193429
+"Ahmedabad, India",Gold,Food,F,97674
+"Bengaluru, India",Silver,Food,F,222579
+"Bengaluru, India",Platinum,Food,F,194846
+"Greater Mumbai, India",Signature,Food,F,62690
+"Greater Mumbai, India",Signature,Food,F,225614
+"Ahmedabad, India",Signature,Food,F,13879
+"Ahmedabad, India",Gold,Food,F,279579
+"Bengaluru, India",Gold,Food,F,253183
+"Bengaluru, India",Signature,Food,F,183197
+"Bengaluru, India",Gold,Food,F,260046
+"Bengaluru, India",Gold,Food,F,95981
+"Bengaluru, India",Gold,Food,F,157399
+"Delhi, India",Signature,Food,F,140041
+"Ahmedabad, India",Platinum,Food,F,288339
+"Ahmedabad, India",Platinum,Food,F,49494
+"Bengaluru, India",Platinum,Food,F,43954
+"Bengaluru, India",Platinum,Food,F,35543
+"Greater Mumbai, India",Signature,Food,F,12982
+"Delhi, India",Platinum,Food,F,213140
+"Greater Mumbai, India",Platinum,Food,F,95741
+"Bengaluru, India",Platinum,Food,F,129144
+"Ahmedabad, India",Gold,Food,F,115551
+"Bengaluru, India",Gold,Food,F,57961
+"Ahmedabad, India",Silver,Food,F,209527
+"Ahmedabad, India",Gold,Food,M,15892
+"Bengaluru, India",Signature,Food,M,155659
+"Greater Mumbai, India",Silver,Food,M,246215
+"Greater Mumbai, India",Signature,Food,M,149465
+"Ahmedabad, India",Gold,Food,M,259694
+"Delhi, India",Silver,Food,M,70009
+"Greater Mumbai, India",Gold,Food,M,233391
+"Ahmedabad, India",Silver,Food,M,35002
+"Ahmedabad, India",Silver,Food,M,156519
+"Bengaluru, India",Gold,Food,M,286786
+"Bengaluru, India",Signature,Food,M,173244
+"Bengaluru, India",Platinum,Food,M,195804
+"Ahmedabad, India",Platinum,Food,M,162827
+"Bengaluru, India",Signature,Food,M,20036
+"Bengaluru, India",Signature,Food,M,266125
+"Greater Mumbai, India",Signature,Food,M,156531
+"Ahmedabad, India",Signature,Food,M,288673
+"Ahmedabad, India",Signature,Food,M,67474
+"Delhi, India",Platinum,Food,F,220674
+"Greater Mumbai, India",Gold,Food,F,282988
+"Bengaluru, India",Signature,Food,F,206308
+"Bengaluru, India",Platinum,Food,F,243074
+"Ahmedabad, India",Signature,Food,F,247181
+"Greater Mumbai, India",Signature,Food,F,111842
+"Delhi, India",Gold,Food,F,277079
+"Delhi, India",Silver,Food,F,218638
+"Ahmedabad, India",Gold,Food,F,152216
+"Delhi, India",Signature,Food,F,42620
+"Ahmedabad, India",Gold,Food,F,101639
+"Greater Mumbai, India",Silver,Food,F,102966
+"Bengaluru, India",Platinum,Food,F,127650
+"Greater Mumbai, India",Platinum,Food,F,277737
+"Bengaluru, India",Signature,Food,F,251805
+"Ahmedabad, India",Signature,Food,F,288284
+"Bengaluru, India",Gold,Food,F,125290
+"Bengaluru, India",Silver,Food,F,166602
+"Ahmedabad, India",Silver,Food,F,219097
+"Bengaluru, India",Gold,Food,F,34082
+"Bengaluru, India",Silver,Food,F,20573
+"Bengaluru, India",Platinum,Food,F,245056
+"Ahmedabad, India",Signature,Food,F,131847
+"Delhi, India",Platinum,Food,F,276873
+"Bengaluru, India",Silver,Food,F,138342
+"Ahmedabad, India",Signature,Food,F,137292
+"Ahmedabad, India",Signature,Food,F,147750
+"Bengaluru, India",Signature,Food,F,2397
+"Bengaluru, India",Gold,Food,F,31051
+"Delhi, India",Signature,Food,F,55137
+"Greater Mumbai, India",Gold,Food,F,136040
+"Ahmedabad, India",Platinum,Food,F,181721
+"Delhi, India",Signature,Food,F,81753
+"Ahmedabad, India",Platinum,Food,F,266386
+"Ahmedabad, India",Silver,Food,F,259008
+"Greater Mumbai, India",Silver,Food,F,250995
+"Delhi, India",Signature,Food,F,232155
+"Greater Mumbai, India",Silver,Food,F,48012
+"Delhi, India",Signature,Food,F,296543
+"Greater Mumbai, India",Signature,Food,F,246893
+"Ahmedabad, India",Platinum,Food,F,95807
+"Ahmedabad, India",Platinum,Food,F,165278
+"Ahmedabad, India",Silver,Food,F,191618
+"Greater Mumbai, India",Silver,Food,F,159718
+"Ahmedabad, India",Gold,Food,F,213552
+"Greater Mumbai, India",Gold,Food,F,249061
+"Delhi, India",Silver,Food,F,279377
+"Delhi, India",Silver,Food,F,233694
+"Bengaluru, India",Silver,Food,F,102362
+"Bengaluru, India",Silver,Food,F,108296
+"Bengaluru, India",Gold,Food,F,258275
+"Bengaluru, India",Silver,Food,F,194260
+"Bengaluru, India",Gold,Food,F,167903
+"Ahmedabad, India",Silver,Food,F,128266
+"Bengaluru, India",Signature,Food,F,268543
+"Ahmedabad, India",Signature,Food,F,30653
+"Greater Mumbai, India",Signature,Food,F,189981
+"Delhi, India",Gold,Food,F,230325
+"Greater Mumbai, India",Signature,Food,F,176871
+"Greater Mumbai, India",Platinum,Food,F,171241
+"Greater Mumbai, India",Silver,Food,F,91846
+"Delhi, India",Silver,Food,F,162813
+"Delhi, India",Silver,Food,F,28569
+"Bengaluru, India",Silver,Food,F,231827
+"Delhi, India",Silver,Food,F,281283
+"Bengaluru, India",Silver,Food,F,291358
+"Delhi, India",Signature,Food,F,288888
+"Delhi, India",Gold,Bills,F,283575
+"Greater Mumbai, India",Silver,Bills,F,132827
+"Delhi, India",Silver,Bills,F,200721
+"Ahmedabad, India",Signature,Bills,F,190220
+"Ahmedabad, India",Signature,Bills,F,265508
+"Greater Mumbai, India",Platinum,Bills,F,298838
+"Greater Mumbai, India",Silver,Bills,F,203106
+"Ahmedabad, India",Platinum,Bills,F,196647
+"Delhi, India",Gold,Bills,F,136602
+"Greater Mumbai, India",Gold,Bills,F,236980
+"Greater Mumbai, India",Signature,Bills,F,59121
+"Bengaluru, India",Silver,Bills,F,193944
+"Greater Mumbai, India",Platinum,Bills,F,109857
+"Bengaluru, India",Signature,Bills,F,57768
+"Ahmedabad, India",Gold,Bills,F,207196
+"Ahmedabad, India",Platinum,Bills,F,8056
+"Ahmedabad, India",Platinum,Bills,F,178478
+"Bengaluru, India",Platinum,Bills,F,246046
+"Ahmedabad, India",Platinum,Bills,F,192382
+"Greater Mumbai, India",Gold,Bills,F,19158
+"Greater Mumbai, India",Platinum,Bills,F,9552
+"Delhi, India",Platinum,Bills,F,276862
+"Bengaluru, India",Silver,Bills,F,147958
+"Greater Mumbai, India",Gold,Bills,F,151436
+"Ahmedabad, India",Signature,Bills,F,271595
+"Bengaluru, India",Platinum,Bills,F,8115
+"Greater Mumbai, India",Silver,Bills,F,73172
+"Delhi, India",Signature,Food,F,196816
+"Ahmedabad, India",Signature,Food,F,162829
+"Bengaluru, India",Signature,Food,F,252669
+"Ahmedabad, India",Gold,Food,F,54746
+"Bengaluru, India",Platinum,Food,F,108079
+"Ahmedabad, India",Platinum,Food,F,240804
+"Ahmedabad, India",Silver,Food,F,11289
+"Bengaluru, India",Silver,Food,F,127020
+"Greater Mumbai, India",Signature,Food,F,114777
+"Delhi, India",Platinum,Food,F,88003
+"Delhi, India",Silver,Food,F,153154
+"Bengaluru, India",Gold,Food,F,114863
+"Bengaluru, India",Gold,Food,F,126912
+"Bengaluru, India",Platinum,Food,F,12621
+"Bengaluru, India",Silver,Food,F,248699
+"Ahmedabad, India",Gold,Food,F,232388
+"Delhi, India",Silver,Food,F,168039
+"Delhi, India",Silver,Food,F,122944
+"Bengaluru, India",Platinum,Food,F,171746
+"Greater Mumbai, India",Platinum,Food,F,168495
+"Ahmedabad, India",Signature,Food,F,252614
+"Greater Mumbai, India",Platinum,Food,F,233161
+"Greater Mumbai, India",Gold,Food,F,85459
+"Ahmedabad, India",Signature,Food,F,156075
+"Greater Mumbai, India",Signature,Food,F,161329
+"Greater Mumbai, India",Gold,Food,F,183105
+"Delhi, India",Signature,Food,F,252691
+"Delhi, India",Gold,Food,F,221345
+"Ahmedabad, India",Platinum,Food,F,131014
+"Ahmedabad, India",Gold,Food,F,21571
+"Greater Mumbai, India",Silver,Food,F,152307
+"Greater Mumbai, India",Platinum,Food,F,193060
+"Bengaluru, India",Silver,Food,F,133084
+"Ahmedabad, India",Gold,Food,F,194361
+"Ahmedabad, India",Silver,Food,F,286369
+"Greater Mumbai, India",Silver,Food,F,294814
+"Bengaluru, India",Gold,Food,F,276647
+"Greater Mumbai, India",Signature,Food,F,269712
+"Bengaluru, India",Silver,Food,F,167306
+"Greater Mumbai, India",Silver,Food,F,102247
+"Bengaluru, India",Platinum,Food,F,169677
+"Greater Mumbai, India",Signature,Food,F,253586
+"Delhi, India",Gold,Food,F,285567
+"Ahmedabad, India",Signature,Food,F,155529
+"Delhi, India",Platinum,Food,F,214039
+"Greater Mumbai, India",Signature,Food,F,25392
+"Ahmedabad, India",Platinum,Food,F,157972
+"Greater Mumbai, India",Silver,Food,M,200754
+"Delhi, India",Silver,Food,M,24981
+"Delhi, India",Silver,Food,M,223418
+"Bengaluru, India",Signature,Food,M,23309
+"Bengaluru, India",Signature,Food,M,85771
+"Delhi, India",Silver,Food,M,189297
+"Greater Mumbai, India",Gold,Food,M,125003
+"Ahmedabad, India",Silver,Food,M,226929
+"Greater Mumbai, India",Silver,Food,M,176275
+"Bengaluru, India",Platinum,Food,M,253338
+"Ahmedabad, India",Signature,Food,M,213508
+"Delhi, India",Platinum,Food,M,147766
+"Bengaluru, India",Signature,Food,F,275085
+"Ahmedabad, India",Platinum,Food,F,40010
+"Ahmedabad, India",Signature,Food,F,66775
+"Ahmedabad, India",Platinum,Food,F,292554
+"Delhi, India",Platinum,Food,F,263104
+"Delhi, India",Platinum,Food,F,154806
+"Bengaluru, India",Gold,Food,F,129650
+"Ahmedabad, India",Signature,Food,F,249446
+"Bengaluru, India",Signature,Entertainment,F,135794
+"Ahmedabad, India",Platinum,Entertainment,F,16468
+"Greater Mumbai, India",Gold,Entertainment,F,185621
+"Delhi, India",Platinum,Entertainment,F,279320
+"Greater Mumbai, India",Platinum,Entertainment,F,271787
+"Ahmedabad, India",Silver,Entertainment,F,64241
+"Bengaluru, India",Platinum,Entertainment,F,297737
+"Bengaluru, India",Gold,Entertainment,F,192039
+"Delhi, India",Gold,Entertainment,F,39866
+"Bengaluru, India",Gold,Entertainment,F,112782
+"Delhi, India",Gold,Entertainment,F,113433
+"Greater Mumbai, India",Gold,Entertainment,F,95081
+"Bengaluru, India",Signature,Entertainment,F,148769
+"Ahmedabad, India",Gold,Entertainment,F,161873
+"Bengaluru, India",Gold,Entertainment,F,225071
+"Delhi, India",Gold,Entertainment,F,260239
+"Greater Mumbai, India",Gold,Entertainment,F,161682
+"Greater Mumbai, India",Signature,Entertainment,F,59926
+"Bengaluru, India",Platinum,Entertainment,F,22964
+"Greater Mumbai, India",Platinum,Entertainment,F,48570
+"Bengaluru, India",Silver,Entertainment,F,52970
+"Bengaluru, India",Platinum,Entertainment,F,13160
+"Ahmedabad, India",Gold,Entertainment,F,295163
+"Bengaluru, India",Silver,Entertainment,M,158649
+"Delhi, India",Platinum,Entertainment,M,120780
+"Bengaluru, India",Signature,Entertainment,M,72366
+"Greater Mumbai, India",Silver,Entertainment,M,281805
